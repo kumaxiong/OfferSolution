@@ -38,14 +38,14 @@ public class Solution1 {
     }
 }
 
-
-class Test {
-    public static void main(String[] args) {
-        int[] A = {1,2,5,8,9,0,0,0,0,0};
-        int[] B = {1,2,3,6,6};
-        new Solution1().sort(A, B);
-        for (int i = 0; i < A.length; i++) {
-            System.out.print(A[i] + ",");
-        }
-    }
-}
+//
+//class Test {
+//    public static void main(String[] args) {
+//        int[] A = {1,2,5,8,9,0,0,0,0,0};
+//        int[] B = {1,2,3,6,6};
+//        new Solution1().sort(A, B);
+//        for (int i = 0; i < A.length; i++) {
+//            System.out.print(A[i] + ",");
+//        }
+//    }
+//}
