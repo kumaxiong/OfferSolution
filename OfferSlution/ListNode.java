@@ -1,10 +1,10 @@
 package OfferSlution;
 
 public class ListNode {
-    int val;
-    ListNode next = null;
+    public int val;
+    public ListNode next = null;
 
-    ListNode(int val) {
+    public ListNode(int val) {
         this.val = val;
     }
 }

@@ -7,11 +7,11 @@ import java.util.Arrays;
  * <p>
  * 大数问题，用字符串数组模拟。
  */
-class Test {
-    public static void main(String[] args) {
-        new Case17().Print1ToMaxOfNDigits2(3);
-    }
-}
+//class Test {
+//    public static void main(String[] args) {
+//        new Case17().Print1ToMaxOfNDigits2(3);
+//    }
+//}
 
 public class Case17 {
     public void Print1ToMaxOfDigits(int n) {
