@@ -3,7 +3,7 @@ package Util;
 import OfferSlution.ListNode;
 
 public class ArraryToListNode {
-    public static ListNode ArrayToListNode(int[] array){
+    public static ListNode getNode(int[] array){
         ListNode result = new ListNode(array[0]);
         ListNode behind = result;
         ListNode ahead = null;

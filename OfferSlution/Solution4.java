@@ -25,15 +25,3 @@ public class Solution4 {
     }
 }
 
-
-//Definition for binary tree
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-
-    TreeNode(int x) {
-        val = x;
-    }
-}
-

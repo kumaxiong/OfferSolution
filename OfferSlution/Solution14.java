@@ -17,7 +17,7 @@ public class ListNode {
  */
 //class Test{
 //    public static void main(String[] args) {
-//        ListNode p = ArraryToListNode.ArrayToListNode(new int[]{1,2,3,4,5,6,7,8});
+//        ListNode p = ArraryToListNode.getNode(new int[]{1,2,3,4,5,6,7,8});
 //        p = new Solution14().FindKthToTail(p,1);
 //        System.out.println(p.val);
 //    }
