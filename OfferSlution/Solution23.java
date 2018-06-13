@@ -1,11 +1,11 @@
 package OfferSlution;
 
-class Test{
+/*class Test{
     public static void main(String[] args) {
         int[] a = new int[]{5,7,6,9,11,10,8};
         System.out.println(new Solution23().VerifySquenceOfBST(a));
     }
-}
+}*/
 public class Solution23 {
     public boolean VerifySquenceOfBST(int[] sequence) {
 
