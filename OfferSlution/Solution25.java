@@ -1,7 +1,6 @@
 package OfferSlution;
 
 import java.util.HashMap;
-import java.util.Random;
 
 /*class Test{
     public static void main(String[] args) {
