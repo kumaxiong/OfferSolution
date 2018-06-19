@@ -1,9 +1,9 @@
 package BookCase;
-class Test{
+/*class Test{
     public static void main(String[] args) {
         System.out.println(new Case44().digitAtIndex(19));
     }
-}
+}*/
 public class Case44 {
     public int digitAtIndex(int index){
         if(index < 0)
