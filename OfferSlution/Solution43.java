@@ -30,9 +30,9 @@ public class Solution43 {
     }
 }
 
-class Test {
-
-    public static void main(String[] args) {
-        System.out.println(new Solution43().LeftRotateString("xiongliqiang", 65));
-    }
-}
+//class Test {
+//
+//    public static void main(String[] args) {
+//        System.out.println(new Solution43().LeftRotateString("xiongliqiang", 65));
+//    }
+//}
