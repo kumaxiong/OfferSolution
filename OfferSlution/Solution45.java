@@ -36,10 +36,11 @@ public class Solution45 {
 }
 
 
+/*
 class Test {
 
     public static void main(String[] args) {
         boolean result = new Solution45().isContinuous(new int[]{0,0,1,1,4});
         System.out.println(result);
     }
-}
+}*/
