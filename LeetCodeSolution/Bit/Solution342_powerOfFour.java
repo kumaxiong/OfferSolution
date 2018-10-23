@@ -35,10 +35,10 @@ public class Solution342_powerOfFour {
 }
 
 
-class Test {
-
-    public static void main(String[] args) {
-        System.out.println(new Solution342_powerOfFour().isPowerOfFour(16));
-        System.out.println(new Solution342_powerOfFour().isPowerOfFour(5));
-    }
-}
+// class Test {
+//
+//     public static void main(String[] args) {
+//         System.out.println(new Solution342_powerOfFour().isPowerOfFour(16));
+//         System.out.println(new Solution342_powerOfFour().isPowerOfFour(5));
+//     }
+// }

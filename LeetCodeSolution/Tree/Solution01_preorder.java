@@ -17,14 +17,12 @@ public class Solution01_preorder {
         while (!stack.isEmpty()) {
             pNode = stack.pop();
             result.add(pNode.val);
-
             if (pNode.right != null) {
                 stack.push(pNode.right);
             }
             if (pNode.left != null) {
-                stack.push(pNode.left);
-
                 // 需要先把左边的遍历完再遍历右边的，所以使用栈的结构，left后加入。
+                stack.push(pNode.left);
             }
         }
         return result;
